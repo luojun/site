@@ -28,7 +28,7 @@ Gute Frage. Explain the Klein-Gordon equation, then I will answer
 ---
 **回答（Answer）：**
 
-The **Klein–Gordon equation** is the relativistic wave equation for a spin‑0 particle, written as:$\left(\square + \frac{m^2 c^2}{\hbar^2}\right)\psi = 0$or in natural units($\hbar=c=1$):$(\partial_t^2 - \nabla^2 + m^2)\psi = 0$
+The **Klein–Gordon equation** is the relativistic wave equation for a spin‑0 particle, written as: $\left(\square + \frac{m^2 c^2}{\hbar^2}\right)\psi = 0$ or in natural units ($\hbar=c=1$): $(\partial_t^2 - \nabla^2 + m^2)\psi = 0$
 
 It was the first relativistic quantum equation, intended to extend the Schrödinger equation to special relativity.
 
