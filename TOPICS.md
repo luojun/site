@@ -149,3 +149,83 @@ Foundational
 核心文献：Lorenzen《建构性科学哲学》（Constructive Philosophy of Science）。
 
 
+～～　From G, to be reviewed and incorporated ~~
+
+# 场所物理学（Site Physics）专题研究计划
+
+本计划旨在全面替代原有的 `TOPICS.md`，将理论推进的重心从“唯象层面的解释”彻底下沉到“场所的注记动力学（Registration Dynamics of Site）”构建中。每一个物理场所（Site）在此被严格内化为一个物理与本体双面复合的三元组：$\mathcal{S} = (\mathcal{A}_{plenum}, \hat{H}_{entrain}, \hat{\Pi}_{norm})$。其中 $\mathcal{A}_{plenum}$ 代表具有弹性与旷量（Flex & Slop）的全域因果洪流，$\hat{H}_{entrain}$ 描述局域的物理锁相牵引（Entrainment），$\hat{\Pi}_{norm}$ 则承载社会性全局规范的抽象注记（Fan-in Registration）。
+
+以下是突破方向的四大板块及核心专题：
+
+## 一、 Physical (物理学专题)：牵引动力学与残差显现
+
+本部分聚焦于物理信道的真实运作机制，抛弃绝对刚性的演化与同构映射，研究局部仪器与全域因果流如何发生带有摩擦与耗散的相遇（Encounter）。
+
+**P1. 物理动态：牵引（Entrainment）与退牵引（Detrainment）**
+*   **核心内容**：研究仪器如何作为 $\hat{H}_{entrain}$，在无定形的 $\mathcal{A}_{plenum}$ 中强行拽出局部的物理振荡。将量子退相干重新解释为系统脱离局部场所边界条件后的退牵引（Detrainment），即系统重新消融于宇宙回响中。探讨基于 Kuramoto 模型等非线性锁相机制在跨场所协同中的耗散本质。
+*   **核心文献**：H. Dieter Zeh, *The Physical Basis of The Direction of Time*；Kuramoto 耦合振子相关文献。
+
+**P2. 节拍源于场所（Beat from Site）与 1/f 噪声的涌现**
+*   **核心内容**：宇宙底层不滴答作响，时间与离散事件的本质是“节拍（Beat）”。当高频的全域因果洪流 $\cos(\omega_1 t)$ 遭遇局域 Site 探测器的本征边界条件 $\cos(\omega_2 t)$ 时，因频率不完全匹配而必然涌现出低频的干涉包络 $\cos(\frac{\omega_1 - \omega_2}{2}t)$。推导这种嵌套包络如何自然携带多时间尺度非马尔可夫记忆，并在宏观上表现出鲁棒的 1/f 噪声谱。
+*   **核心文献**：复杂系统统计物理（如普里高津关于时间之矢的工作）。
+
+**P3. 跨场所翻译残差（Translational Residue）与暗区物理**
+*   **核心内容**：放弃两个局域 Site 之间的绝对 C* 代数同构，引入允许有损的完全正映射（CP Map）作为 D/A、A/D 物理信道。当大尺度的宇宙学窗口与星系尺度的小窗口进行协同度规时，由于必须克服底层信道的“旷量（Slop）”，必然产生无法被完美翻译的残差。将此翻译残差作为有效曲率项，直接推导星系平坦旋转曲线与等效宇宙学常数。
+*   **核心文献**：Thomas Buchert 的宇宙学反作用力理论（Backreaction）；Mashhoon 的非局域引力拟合暗物质研究。
+
+## 二、 Mathematical (数学专题)：非有限局域性与本体论演算
+
+本部分提供承载“弹性灰度”与“因果先验”的代数-几何底座，为不可计算的本体注记（Fan-in）寻找最高级的拓扑、代数与函子语言。
+
+**M1. 扭量几何（Twistor Geometry）作为单向因果流的代数底座**
+*   **核心内容**：传统的黎曼几何预设了孤立的几何点；而 Penrose 的扭量理论主张光线（单向因果流的极值）是原初的数学实体，时空点仅仅是这些因果光束在局域的“收束相交”。这用严格的复射影几何语言，完美兑现了我们“时空点是因果扇（Causal Fan）收束顶点”以及“因果流先于时空点”的本体论论断。
+*   **核心文献**：Roger Penrose, *The Road to Reality* (关于扭量理论推导时空点的章节)。
+
+**M2. Sited C* 代数的弹性谱间距与灰度拓扑**
+*   **核心内容**：将场所化 C* 代数明确为“局域但非有限的（Local but non-finite）”。利用本征谱的最小可分辨间隔 $\Delta \lambda \propto 1/L$ 刻画数学结构的伸缩变形。但必须明确，这种谱间距的伸缩并非连续与离散的穷尽，离散注记还需要意向性活动的配合背景。
+*   **核心文献**：N. P. Landsman, *Mathematical Topics Between Classical and Quantum Mechanics*。
+
+**M3. 凝聚拓扑斯与伴随函子（Adjoint Functors）演算**
+*   **核心内容**：利用 Lawvere 的凝聚拓扑斯框架，将仪器的物理动态与概念抽象写成伴随函子对。Fan-out 作为右伴随，保留底层拓扑复杂细节并沉浸入具体动态（多显一隐的具体化）；Fan-in 作为左伴随，遗忘底层细节并强制提取离散注记（多隐一显的抽象化）。数学上必须证明这种 Fan-in 提取过程是“面向特征的（aspectually specific）”，从而赋予场所注记以合法的代数表达。
+*   **核心文献**：F. William Lawvere, *Axiomatic Cohesion*；Urs Schreiber 的凝聚同伦类型论工作。
+
+**M4. 奇异极限（Singular Limits）与本体扩展边界**
+*   **核心内容**：通过渐近推理处理实数域绝对光滑带来的“本体出超（Ontological Excess）”。当数学上的极限操作（如 $\Delta x \to 0$ 或 $N \to \infty$）发生破缺时，分析物理边界（Site conditions）与新的能动性是如何在这些逻辑断层中通过协同分解建构出来的。
+*   **核心文献**：Robert Batterman, *The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction, and Emergence*。
+
+## 三、 Empirical (经验专题)：实验现象学的内化与异常
+
+将仪器、观察者及其伴随的社会性本体注记降落到物理方程中，探讨因为强行施加“本体规范”而溢出的异常现象。
+
+**E1. 实验现象学的物理内化（Internalizing Experimental Phenomenology）**
+*   **核心内容**：回应 Nancy Cartwright。物理定律并不撒谎，而是理论未能对其强化的“本体抽象（Fan-out 操作本身）”负责。研究大型律则机器（Nomological Machines，如 LHC 或 LIGO）是如何耗费巨大的物理能量（Entrainment）来压制环境的 Slop，从而成功完成一次多隐一显的离散注记（Fan-in）的。计算这种强制抽象带来的不可约化熵增（抽象代价）。
+*   **核心文献**：Nancy Cartwright, *How the Laws of Physics Lie*。
+
+**E2. 宏微观张力：哈勃常数（$H_0$）与质子半径之谜**
+*   **核心内容**：打破集合论的绝对属性预设。证明宇宙膨胀率与质子半径等物理量不是孤立存在的元素，而是探针（仪器）与背景共建的生成物。由于早期 CMB 大窗口与晚期超新星小窗口（或电子探针与 $\mu$ 子探针）构成了截然不同的 Site，它们在进行面向特征的（aspectually specific）注记时必然产生结构性差异。
+*   **核心文献**：当代关于哈勃常数张力与质子半径之谜的前沿综述文献。
+
+**E3. 引力波永久记忆效应与 BMS 超平移**
+*   **核心内容**：彻底清算时空的马尔可夫预设债务。将引力波离去后的度规永久形变（记忆效应）作为全域因果回响记忆的最核心经验试金石。研究局域物理事件如何通过红外发散不可逆地改写全时空的渐近边界本底网络。
+*   **核心文献**：Strominger 等关于引力波记忆、BMS超平移与软定理的文献。
+
+## 四、 Conceptual (Philosophical) (哲学与概念专题)：建构现实主义与规范演化
+
+清算信息/计算还原论，为物理学的可理解性规范、代际更迭及宏观相变确立严格的本体论基础。
+
+**C1. 建构现实主义与作为本体规范的单向因果流**
+*   **核心内容**：单向因果流和宇宙的局域凝聚性（clumpy）并非世界的形而上学本质，而是物理学要求如此看世界的“本体规范”与基本事实前提。借用 Grete Hermann 与 Lorenzen 的视角，探讨物理学如何为了达成“可理解性与可控性”，强制向 $\mathcal{A}_{plenum}$ 施加这种不可逆的认知切割。
+*   **核心文献**：Grete Hermann, *The Foundations of Quantum Mechanics in the Philosophy of Nature*。
+
+**C2. 社会性全局注记（Socially Global Registration）与不可计算的 Fan-in**
+*   **核心内容**：物理机制无法通过哈密顿量自发“算出”一个离散的 0 或 1，因为底层物理动态中没有两个全同的方波。将物理分支强制注记为离散比特，需要一种超越局域物理的“社会性全局（socially global）”本体态度。研究这种意向性注记过程如何在连通的连续背景下，配合数学结构完成物理实在的抽象。
+*   **核心文献**：Brian Cantwell Smith, *On the Origin of Objects*；Hermann Weyl, *The Continuum*。
+
+**C3. 科学革命的退相干机制（Detrainment through Funerals）**
+*   **核心内容**：将科学家共同体视为一个试图维持全局本体规范（如要求绝对离散或绝对连续）的巨型 Kuramoto 耦合振子网络。当旧范式因强行注记产生的翻译残差（Translational Residue）压垮物理信道时，死锁在旧规范上的权威节点必须通过代际更迭（Funerals）发生物理性的退牵引（Detrainment），从而引发社会性全局规范的集体相变（Phase Transition）。
+*   **核心文献**：托马斯·库恩关于科学革命结构的经典论述；普朗克关于“科学通过葬礼进步”的科学史学说分析。
+
+**C4. 批判计算还原论：Flex & Slop 绞杀 "It from Bit"**
+*   **核心内容**：彻底反驳 Wheeler 与 Wolfram 将宇宙还原为绝对离散比特或算法时钟的理论。指出这种预设不仅偷渡了“绝对时钟”带来本体出超，还剥夺了物理信道的真实摩擦而导致本体节略。运用 BCS 的 Flex（允许代数弹性形变）与 Slop（容忍跨尺度翻译残差）概念，捍卫真实的物理实在：宇宙是一场开放的 Siting 运作，而非一台闭合的图灵机。
+*   **核心文献**：John Archibald Wheeler, *Information, Physics, Quantum: The Search for Links* (作为靶子)；Stephen Wolfram 的离散超图研究 (作为靶子)。
+
